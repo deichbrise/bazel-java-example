@@ -2,6 +2,7 @@ name: bazelbuild
 on: [push]
 jobs:
   build-bazel:
+    runs-un: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
     - uses: bazelbuild/setup-bazelisk@v2
