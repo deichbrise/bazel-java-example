@@ -6,3 +6,6 @@ This module contains articles about Bazel
 
 - [Building Java Applications with Bazel](https://www.baeldung.com/bazel-build-tool)
 # bazel-java-example
+
+
+test 1234
