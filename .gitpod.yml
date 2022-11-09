@@ -1,0 +1,12 @@
+vscode:
+  extensions:
+    - pivotal.vscode-spring-boot
+    - vscjava.vscode-java-pack
+
+jetbrains:
+  intellij:
+    plugins:
+      - com.haulmont.jpab
+      - com.google.idea.bazel.ijwb
+    prebuilds:
+      version: both
