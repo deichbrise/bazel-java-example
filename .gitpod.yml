@@ -7,5 +7,6 @@ jetbrains:
   intellij:
     plugins:
       - com.haulmont.jpab
+      - com.google.idea.bazel.ijwb
     prebuilds:
       version: both
