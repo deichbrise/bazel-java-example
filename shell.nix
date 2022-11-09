@@ -23,5 +23,6 @@ stdenv.mkDerivation {
         python3
         terraform
         kube3d
+	unrar
     ];
 }
